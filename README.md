@@ -1,6 +1,6 @@
 # Olá! eu sou o João Victor, mas pode me chamar de Jasper. 😊♿
 ## 🎓 | Sobre mim
-Me chamo João Victor Izidro da Silva, tenho 24 anos, sou deficiente físico, tetraplégico. Atualmente estou cursando o 1º semestre em ADS (Analise e Desenvolvimento de Sistema) na faculdade [Anhanguera](https://www.anhanguera.com/). Des de muito cedo, sempre fui fascinado por tecnologia, games, e com o passar do tempo quis me envolver mais a fundo nesse ramo.
+Me chamo João Victor Izidro da Silva, tenho 24 anos, sou deficiente físico, tetraplégico. Atualmente estou cursando o 3º semestre em ADS (Analise e Desenvolvimento de Sistema) na faculdade [Anhanguera](https://www.anhanguera.com/). Des de muito cedo, sempre fui fascinado por tecnologia, games, e com o passar do tempo quis me envolver mais a fundo nesse ramo.
 
 ## 🚀 | Meta
 Minha meta é se tornar desenvolvedor full-stack.
